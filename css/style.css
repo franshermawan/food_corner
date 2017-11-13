@@ -1401,7 +1401,6 @@ i.fa.fa-pencil{
     color: #f35041;
     font-size: 1em;
     padding: .1em 5em;
-    border: solid 2px #f35041;
     text-align: center;
     text-decoration: none;
     margin: 2em auto 0;
@@ -1755,7 +1754,7 @@ button.btn1:hover {
 		height: 264px;
 	}
 }
-@media(max-width:991px){
+@media(max-width:1100px){
 	.banner-info {
 		width: 81%;
 	}
