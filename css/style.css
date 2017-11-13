@@ -1397,7 +1397,17 @@ i.fa.fa-pencil{
     background: #f35041;
     color: #FFFFFF;
 }
-.agile-blog-grid:nth-child(2){
+.blog-right-bottom p {
+    color: #f35041;
+    font-size: 1em;
+    padding: .1em 5em;
+    border: solid 2px #f35041;
+    text-align: center;
+    text-decoration: none;
+    margin: 2em auto 0;
+    background: none;
+}
+    .agile-blog-grid:nth-child(2){
 	margin:2em 0;
 }
 .categories h3 {
