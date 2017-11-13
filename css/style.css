@@ -1415,6 +1415,7 @@ i.fa.fa-pencil{
     display: block;
     background: url(../images/arrow.png) no-repeat 0px 2px;
     margin-bottom: 1em;
+    font-size: 20px;
 }
 .categories ul li a {
     font-size: .9em;
@@ -1793,6 +1794,7 @@ button.btn1:hover {
 	}
 	.agile-blog-grid-right {
 		margin: 2em 0 0 0;
+        font-size :200%;
 	}
 	.contact-form input[type="text"] {
 		width: 31%;
