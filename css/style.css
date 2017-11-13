@@ -84,7 +84,7 @@ span.menu {
     width: 61%;
 }
 .banner-info h3{
-    color: #000000;
+    color: white;
     font-size: 4em;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
@@ -1712,7 +1712,7 @@ button.btn1:hover {
 /*-- responsive --*/
 @media(max-width:1080px){
 	.banner {
-		background: url(../images/1.jpg) no-repeat 0px 0px;
+		background: url(../images/b1.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.top-nav ul li:nth-child(3) {
